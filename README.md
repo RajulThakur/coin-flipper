@@ -4,9 +4,7 @@ A fun and interactive coin flipping web application with smooth animations. Watc
 
 ## Demo
 
-[Live Demo](your-demo-link-here) <!-- Add your GitHub Pages or deployment link when available -->
-
-![Coin Flipper Preview](preview.gif) <!-- Consider adding a preview GIF/image -->
+[Live Demo](https://tossing-coin.netlify.app/) <!-- Add your GitHub Pages or deployment link when available -->
 
 ## Features
 
